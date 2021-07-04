@@ -1,8 +1,6 @@
-# eslint-config-pancake
+# eslint-config-java
 
-**This repository is not used anymore. See the [Pancake toolkit](https://github.com/pancakeswap/pancake-toolkit) instead**
-
-Pancake Eslint config with:
+Java Eslint config with:
 
 - Airbnb config
 - Typescript
@@ -11,7 +9,7 @@ Pancake Eslint config with:
 ## Usage
 
 ```
-npx install-peerdeps --dev @pancakeswap-libs/eslint-config-pancake
+npx install-peerdeps --dev @javaswap/eslint-config-Java
 ```
 
-Add `"extends": "@pancakeswap-libs/eslint-config-pancake"` to your eslint config file.
+Add `"extends": "@javaswap/eslint-config-Java"` to your eslint config file.
